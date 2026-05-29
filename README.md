@@ -8,5 +8,5 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Problems Solved
 | # | Title | Solution | Difficulty | Time | Space | Approach |
-| --- | --- | --- |
-| 15 | 3Sum | [Python](./Arrays/0015-3sum.py) | Medium | $O(n^2)$ | $O(1)$ | Two Pointers |
+| --- | --- | --- | --- | --- | --- | --- |
+| 27 | Remove Element | [Python](./Arrays/0027-remove-element.py) | Easy | $O(n)$ | $O(1)$ | Two Pointers |
