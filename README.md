@@ -3,10 +3,12 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 1
+- Solved: 2
 - Goal: 100+ Problems
 
-### Problems Solved
+## Problems Solved
+
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | Remove Element | [Python](./Arrays/0027-remove-element.py) | Easy | $O(n)$ | $O(1)$ | Two Pointers |
+| 26 | Remove Duplicates from Sorted Array | Python | Easy | O(n) | O(1) | Two Pointers |
+| 27 | Remove Element | Python | Easy | O(n) | O(1) | Two Pointers |
