@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 4
+- Solved: 6
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -12,6 +12,8 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 26 | Remove Duplicates from Sorted Array | [Python](./arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
 | 27 | Remove Element | [Python](./arrays/27-remove-element.py) | Easy | O(n) | O(1) | Two Pointers |
+| 88 | Merge Sorted Array | [Python](./arrays/0088-merge-sorted-array.py) | Easy | O(m+n) | O(1) | 3 Pointers |
+| 283 | Move Zeroes | [Python](./arrays/0283-move-zeroes.py) | Easy | O(n) | O(1) | 2 Pointers |
 ## Database
 | # | Title | Solution |
 |---| ----- | -------- |
