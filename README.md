@@ -10,8 +10,8 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | Remove Duplicates from Sorted Array | Python | Easy | O(n) | O(1) | Two Pointers |
-| 27 | Remove Element | Python | Easy | O(n) | O(1) | Two Pointers |
+| 26 | Remove Duplicates from Sorted Array | [Python](./arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
+| 27 | Remove Element | [Python](./arrays/27-remove-element.py) | Easy | O(n) | O(1) | Two Pointers |
 ## Database
 | # | Title | Solution |
 |---| ----- | -------- |
