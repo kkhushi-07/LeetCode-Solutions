@@ -16,3 +16,4 @@ BCA Student | DSA Practice | Daily Problem Solving
 | # | Title | Solution |
 |---| ----- | -------- |
 | 175 | Combine Two Tables | [SQL](./database/175-combine-two-tables.sql) |
+| 176 | Second Highest Salary | [SQL](./database/176-second-highest-salary.sql) |
