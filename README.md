@@ -3,11 +3,12 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 6
+- Solved: 8
 - Goal: 100+ Problems
 
 ## Problems Solved
 
+##Arrays
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
 | 26 | Remove Duplicates from Sorted Array | [Python](./arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
@@ -19,3 +20,5 @@ BCA Student | DSA Practice | Daily Problem Solving
 |---| ----- | -------- |
 | 175 | Combine Two Tables | [SQL](./database/175-combine-two-tables.sql) |
 | 176 | Second Highest Salary | [SQL](./database/176-second-highest-salary.sql) |
+| 181 | Employees Earning More Than Their Managers | [SQL](./database/0181-Employees-Earning-More....sql) |
+| 183 | Customers Who Never Order | [SQL](./database/0183-customers-who-never-ord....sql) |
