@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 8
+- Solved: 10
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -22,3 +22,5 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 176 | Second Highest Salary | [SQL](./database/176-second-highest-salary.sql) |
 | 181 | Employees Earning More Than Their Managers | [SQL](./database/0181-Employees-Earning-More....sql) |
 | 183 | Customers Who Never Order | [SQL](./database/0183-customers-who-never-ord....sql) |
+| 182 | Duplicate Emails | [SQL](./database/0182-duplicate-emails.sql) |
+| 185 | Department Top Three Salaries | [SQL](./database/0185-department-top-three-salaries.sql) |
