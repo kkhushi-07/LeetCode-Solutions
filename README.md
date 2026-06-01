@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 11
+- Solved: 12
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -16,6 +16,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 88 | Merge Sorted Array | [Python](./arrays/0088-merge-sorted-array.py) | Easy | O(m+n) | O(1) | 3 Pointers |
 | 283 | Move Zeroes | [Python](./arrays/0283-move-zeroes.py) | Easy | O(n) | O(1) | 2 Pointers |
 | 35 | Search Insert Position | [Python](./arrays/0035-search-insert-position.py) | Easy | O(log n) | O(1) | Binary Search |
+| 15 | 3Sum | [Python](./arrays/0015-3sum.py) | Medium | O(n^2) | O(1) | Two Pointers |
 ## Database
 | # | Title | Solution |
 |---| ----- | -------- |
