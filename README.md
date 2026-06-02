@@ -8,7 +8,8 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ## Problems Solved
 
-##Arrays
+
+## Arrays
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
 | 26 | Remove Duplicates from Sorted Array | [Python](./arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
@@ -17,6 +18,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 283 | Move Zeroes | [Python](./arrays/0283-move-zeroes.py) | Easy | O(n) | O(1) | 2 Pointers |
 | 35 | Search Insert Position | [Python](./arrays/0035-search-insert-position.py) | Easy | O(log n) | O(1) | Binary Search |
 | 15 | 3Sum | [Python](./arrays/0015-3sum.py) | Medium | O(n^2) | O(1) | Two Pointers |
+
 ## Database
 | # | Title | Solution |
 |---| ----- | -------- |
@@ -27,7 +29,8 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 182 | Duplicate Emails | [SQL](./database/0182-duplicate-emails.sql) |
 | 185 | Department Top Three Salaries | [SQL](./database/0185-department-top-three-salaries.sql) |
 | 196 | Delete Duplicate Emails | [SQL](./database/0196-delete-duplicate-emails.sql) |
-##Arrays
+ 
+## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2667 | Create Hello World Function | [JS](./javascript/2667-create-hello-world-function.js) | Easy | O(1) | O(1) | Closure |
