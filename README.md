@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 13
+- Solved: 14
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -27,3 +27,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 182 | Duplicate Emails | [SQL](./database/0182-duplicate-emails.sql) |
 | 185 | Department Top Three Salaries | [SQL](./database/0185-department-top-three-salaries.sql) |
 | 196 | Delete Duplicate Emails | [SQL](./database/0196-delete-duplicate-emails.sql) |
+##Arrays
+| # | Title | Solution | Difficulty | Time | Space | Approach |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2667 | Create Hello World Function | [JS](./javascript/2667-create-hello-world-function.js) | Easy | O(1) | O(1) | Closure |
