@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 16
+- Solved: 17
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -30,6 +30,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 185 | Department Top Three Salaries | [SQL](./database/0185-department-top-three-salaries.sql) |
 | 196 | Delete Duplicate Emails | [SQL](./database/0196-delete-duplicate-emails.sql) |
 | 197 | Rising Temperature | [SQL](./database/0197-rising-temperature.sql) | Easy | O(n log n) | O(1) | JOIN |
+| 595 | Big Countries | [SQL](./database/0595-big-countries.sql) | Easy | O(n) | O(1) | WHERE |
  
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
