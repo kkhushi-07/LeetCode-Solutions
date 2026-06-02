@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 12
+- Solved: 13
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -26,3 +26,4 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 183 | Customers Who Never Order | [SQL](./database/0183-customers-who-never-ord....sql) |
 | 182 | Duplicate Emails | [SQL](./database/0182-duplicate-emails.sql) |
 | 185 | Department Top Three Salaries | [SQL](./database/0185-department-top-three-salaries.sql) |
+| 196 | Delete Duplicate Emails | [SQL](./database/0196-delete-duplicate-emails.sql) |
