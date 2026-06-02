@@ -34,3 +34,4 @@ BCA Student | DSA Practice | Daily Problem Solving
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2667 | Create Hello World Function | [JS](./javascript/2667-create-hello-world-function.js) | Easy | O(1) | O(1) | Closure |
+| 2620 | Counter | [JS](./javascript/2620-counter.js) | Easy | O(1) | O(1) | Closure |
