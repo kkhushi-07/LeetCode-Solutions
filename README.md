@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 17
+- Solved: 18
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -20,8 +20,8 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 15 | 3Sum | [Python](./arrays/0015-3sum.py) | Medium | O(n^2) | O(1) | Two Pointers |
 
 ## Database
-| # | Title | Solution |
-|---| ----- | -------- |
+| # | Title | Solution | Difficulty | Time | Space | Approach |
+| --- | --- | --- | --- | --- | --- | --- |
 | 175 | Combine Two Tables | [SQL](./database/175-combine-two-tables.sql) |
 | 176 | Second Highest Salary | [SQL](./database/176-second-highest-salary.sql) |
 | 181 | Employees Earning More Than Their Managers | [SQL](./database/0181-Employees-Earning-More....sql) |
@@ -31,6 +31,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 196 | Delete Duplicate Emails | [SQL](./database/0196-delete-duplicate-emails.sql) |
 | 197 | Rising Temperature | [SQL](./database/0197-rising-temperature.sql) | Easy | O(n log n) | O(1) | JOIN |
 | 595 | Big Countries | [SQL](./database/0595-big-countries.sql) | Easy | O(n) | O(1) | WHERE |
+| 184 | Department Highest Salary | [SQL](./database/0184-department-highest-salary.sql) | Medium | O(n log n) | O(n) | JOIN + Subquery |
  
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
