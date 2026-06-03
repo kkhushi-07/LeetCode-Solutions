@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 18
+- Solved: 19
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -38,3 +38,4 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 2667 | Create Hello World Function | [JS](./javascript/2667-create-hello-world-function.js) | Easy | O(1) | O(1) | Closure |
 | 2620 | Counter | [JS](./javascript/2620-counter.js) | Easy | O(1) | O(1) | Closure |
+| 2704 | To Be Or Not To Be | [JS](./javascript/2704-to-be-or-not-to-be.js) | Easy | O(1) | O(1) | Closures |
