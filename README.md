@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 21
+- Solved: 22
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -33,6 +33,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 595 | Big Countries | [SQL](./database/0595-big-countries.sql) | Easy | O(n) | O(1) | WHERE |
 | 184 | Department Highest Salary | [SQL](./database/0184-department-highest-salary.sql) | Medium | O(n log n) | O(n) | JOIN + Subquery |
 584 | Find Customer Referee | [SQL](./database/0584-find-customer-referee.sql) | Easy | O(n) | O(1) | WHERE, NULL |
+577 | Employee Bonus | [SQL](./database/0577-employee-bonus.sql) | Easy | O(n log n) | O(1) | LEFT JOIN, NULL |
  
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
