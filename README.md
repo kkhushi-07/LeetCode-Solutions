@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 26
+- Solved: 27
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -38,6 +38,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 577 | Employee Bonus | [SQL](./database/0577-employee-bonus.sql) | Easy | O(n log n) | O(1) | LEFT JOIN, NULL |
 | 586 | Customer Placing the Largest Number of Orders | [SQL](./database/0586-customer-placing-the-largest-number-of-orders.sql) | Easy | O(n log n) | O(n) | GROUP BY, ORDER BY, LIMIT |
 | 610 | Triangle Judgement | [SQL](./sql/0610-triangle-judgement.sql) | Easy | O(n) | O(1) | SQL, Case Statement |
+| 607 | Sales Person | [SQL](./sql/0607-sales-person.sql) | Easy | O(n) | O(1) | SQL, Subquery, JOIN, Anti-join |
  
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
