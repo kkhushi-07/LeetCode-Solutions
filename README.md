@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 28
+- Solved: 29
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -40,6 +40,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 610 | Triangle Judgement | [SQL](./sql/0610-triangle-judgement.sql) | Easy | O(n) | O(1) | SQL, Case Statement |
 | 607 | Sales Person | [SQL](./sql/0607-sales-person.sql) | Easy | O(n) | O(1) | SQL, Subquery, JOIN, Anti-join |
 | 177 | Nth Highest Salary | [SQL](./sql/0177-nth-highest-salary.sql) | Medium | O(n log n) | O(1) | SQL, Function, DISTINCT, LIMIT |
+| 178 | Rank Scores | [SQL](./sql/0178-rank-scores.sql) | Medium | O(n log n) | O(1) | SQL, Window Function, DENSE_RANK |
  
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
