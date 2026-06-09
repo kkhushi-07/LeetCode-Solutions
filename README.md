@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 30
+- Solved: 31
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -42,6 +42,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 177 | Nth Highest Salary | [SQL](./sql/0177-nth-highest-salary.sql) | Medium | O(n log n) | O(1) | SQL, Function, DISTINCT, LIMIT |
 | 178 | Rank Scores | [SQL](./sql/0178-rank-scores.sql) | Medium | O(n log n) | O(1) | SQL, Window Function, DENSE_RANK |
 | 180 | Consecutive Numbers | [SQL](./sql/0180-consecutive-numbers.sql) | Medium | O(n) | O(1) | SQL, Self Join, JOIN |
+| 262 | Trips and Users | [SQL](./sql/0262-trips-and-users.sql) | Hard | O(n log n) | O(1) | SQL, JOIN, GROUP BY, Aggregation |
  
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
