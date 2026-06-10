@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 31
+- Solved: 32
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -20,6 +20,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 15 | 3Sum | [Python](./arrays/0015-3sum.py) | Medium | O(n^2) | O(1) | Two Pointers |
 | 66 | Plus One | [Python](./python/0066-plus-one.py) | Easy | O(n) | O(1) | Array, Carry |
 | 118 | Pascal's Triangle | [Python](./python/0118-pascals-triangle.py) | Easy | O(n^2) | O(n^2) | Array, DP | 
+| 11 | Container With Most Water | [Python](./python/0011-container-with-most-water.py) | Medium | O(n) | O(1) | Array, Two Pointers |
 
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
