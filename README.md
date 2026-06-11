@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 33
+- Solved: 34
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -22,6 +22,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 118 | Pascal's Triangle | [Python](./python/0118-pascals-triangle.py) | Easy | O(n^2) | O(n^2) | Array, DP | 
 | 11 | Container With Most Water | [Python](./python/0011-container-with-most-water.py) | Medium | O(n) | O(1) | Array, Two Pointers |
 | 14 | Longest Common Prefix | [Python](./python/0014-longest-common-prefix.py) | Easy | O(S) | O(1) | String, Array |
+| 33 | Search in Rotated Sorted Array | [Python](./python/0033-search-in-rotated-sorted-array.py) | Medium | O(log n) | O(1) | Array, Binary Search |
 
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
