@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 34
+- Solved: 35
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -23,6 +23,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 11 | Container With Most Water | [Python](./python/0011-container-with-most-water.py) | Medium | O(n) | O(1) | Array, Two Pointers |
 | 14 | Longest Common Prefix | [Python](./python/0014-longest-common-prefix.py) | Easy | O(S) | O(1) | String, Array |
 | 33 | Search in Rotated Sorted Array | [Python](./python/0033-search-in-rotated-sorted-array.py) | Medium | O(log n) | O(1) | Array, Binary Search |
+| 15 | 3Sum | [Python](./Arrays/0015-3sum.py) | Medium | $O(n^2)$ | $O(1)$ | Two Pointers |
 
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
