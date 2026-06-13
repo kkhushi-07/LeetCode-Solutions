@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 36
+- Solved: 37
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -25,6 +25,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 33 | Search in Rotated Sorted Array | [Python](./python/0033-search-in-rotated-sorted-array.py) | Medium | O(log n) | O(1) | Array, Binary Search |
 | 18 | 4Sum | [Python](./Arrays/0018-4sum.py) | Medium | $O(n^3)$ | $O(1)$ | Two Pointers, Sorting |
 | 15 | 3Sum | [Python](./Arrays/0015-3sum.py) | Medium | $O(n^2)$ | $O(1)$ | Two Pointers |
+| 34 | Find First and Last Position of Element in Sorted Array | [Python](./Arrays/0034-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | $O(\log n)$ | $O(1)$ | Binary Search |
 
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
