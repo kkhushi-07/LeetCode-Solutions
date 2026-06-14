@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 39
+- Solved: 40
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -50,7 +50,8 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 178 | Rank Scores | [SQL](./sql/0178-rank-scores.sql) | Medium | O(n log n) | O(1) | SQL, Window Function, DENSE_RANK |
 | 180 | Consecutive Numbers | [SQL](./sql/0180-consecutive-numbers.sql) | Medium | O(n) | O(1) | SQL, Self Join, JOIN |
 | 262 | Trips and Users | [SQL](./sql/0262-trips-and-users.sql) | Hard | O(n log n) | O(1) | SQL, JOIN, GROUP BY, Aggregation |
-| 596 | Classes With at Least 5 Students | [MySQL](./Database/0596-classes-with-at-least-5-students.sql) | Easy | - | - | GROUP BY, HAVING |
+| 596 | Classes With at Least 5 Students | [SQL](./database/0596-classes-with-at-least-5-students.sql) | Easy | $O(n)$ | $O(k)$ | GROUP BY, HAVING |
+| 602 | Friend Requests II: Who Has the Most Friends | [SQL](./database/0602-friend-requests-ii-who-has-the-most-friends.sql) | Medium | $O(n)$ | $O(n)$ | UNION ALL, Subquery |
  
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
