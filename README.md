@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 40
+- Solved: 41
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -27,6 +27,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 15 | 3Sum | [Python](./Arrays/0015-3sum.py) | Medium | $O(n^2)$ | $O(1)$ | Two Pointers |
 | 34 | Find First and Last Position of Element in Sorted Array | [Python](./Arrays/0034-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | $O(\log n)$ | $O(1)$ | Binary Search |
 | 36 | Valid Sudoku | [Python](./Arrays/0036-valid-sudoku.py) | Medium | $O(1)$ | $O(1)$ | Hash Set, Matrix |
+| 74 | Search a 2D Matrix | [Python](./arrays/0074-search-a-2d-matrix.py) | Medium | O(log(m*n)) | O(1) | Binary Search |
 
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
