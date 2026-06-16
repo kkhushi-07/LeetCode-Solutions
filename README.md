@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 43
+- Solved: 44
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -21,6 +21,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 1281 | Subtract Product and Sum of Digits | [C++](./math/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp) | Easy | O(log n) | O(1) | Digit Extraction |
 | 15 | 3Sum | [Python](./arrays/0015-3sum.py) | Medium | O(n^2) | O(1) | Two Pointers |
 | 66 | Plus One | [Python](./python/0066-plus-one.py) | Easy | O(n) | O(1) | Array, Carry |
+| 191 | Number of 1 Bits | [C++](./bit-manipulation/0191-number-of-1-bits.cpp) | Easy | O(1) | O(1) | Bit Manipulation |
 | 118 | Pascal's Triangle | [Python](./python/0118-pascals-triangle.py) | Easy | O(n^2) | O(n^2) | Array, DP | 
 | 11 | Container With Most Water | [Python](./python/0011-container-with-most-water.py) | Medium | O(n) | O(1) | Array, Two Pointers |
 | 14 | Longest Common Prefix | [Python](./python/0014-longest-common-prefix.py) | Easy | O(S) | O(1) | String, Array |
