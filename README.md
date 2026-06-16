@@ -18,6 +18,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 283 | Move Zeroes | [Python](./arrays/0283-move-zeroes.py) | Easy | O(n) | O(1) | 2 Pointers |
 | 35 | Search Insert Position | [Python](./arrays/0035-search-insert-position.py) | Easy | O(log n) | O(1) | Binary Search |
 | 73 | Set Matrix Zeroes | [Python](./arrays/0073-set-matrix-zeroes.py) | Medium | O(m*n) | O(1) | In-place Marking |
+| 1281 | Subtract Product and Sum of Digits | [C++](./math/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp) | Easy | O(log n) | O(1) | Digit Extraction |
 | 15 | 3Sum | [Python](./arrays/0015-3sum.py) | Medium | O(n^2) | O(1) | Two Pointers |
 | 66 | Plus One | [Python](./python/0066-plus-one.py) | Easy | O(n) | O(1) | Array, Carry |
 | 118 | Pascal's Triangle | [Python](./python/0118-pascals-triangle.py) | Easy | O(n^2) | O(n^2) | Array, DP | 
