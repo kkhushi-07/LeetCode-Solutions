@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 49
+- Solved: 50
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -71,6 +71,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 9 | Palindrome Number | [C++](./math/0009-palindrome-number.cpp) | Easy | O(log n) | O(1) | Math |
 | 12 | Integer to Roman | [C++](./math/0012-integer-to-roman.cpp) | Medium | O(1) | O(1) | Math, Greedy |
 | 13 | Roman to Integer | [C++](./math/0013-roman-to-integer.cpp) | Easy | O(n) | O(1) | Math, Hash Table |
+| 43 | Multiply Strings | [C++](./math/0043-multiply-strings.cpp) | Medium | O(m*n) | O(m+n) | Math, String |
 
 
 ## Bit Manipulation
