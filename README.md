@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 50
+- Solved: 51
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -47,6 +47,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 584 | Find Customer Referee | [SQL](./database/0584-find-customer-referee.sql) | Easy | O(n) | O(1) | WHERE, NULL |
 | 577 | Employee Bonus | [SQL](./database/0577-employee-bonus.sql) | Easy | O(n log n) | O(1) | LEFT JOIN, NULL |
 | 586 | Customer Placing the Largest Number of Orders | [SQL](./database/0586-customer-placing-the-largest-number-of-orders.sql) | Easy | O(n log n) | O(n) | GROUP BY, ORDER BY, LIMIT |
+| 511 | Game Play Analysis I | [SQL](./sql/0511-game-play-analysis-i.sql) | Easy | O(n) | O(n) | Database |
 | 610 | Triangle Judgement | [SQL](./sql/0610-triangle-judgement.sql) | Easy | O(n) | O(1) | SQL, Case Statement |
 | 607 | Sales Person | [SQL](./sql/0607-sales-person.sql) | Easy | O(n) | O(1) | SQL, Subquery, JOIN, Anti-join |
 | 177 | Nth Highest Salary | [SQL](./sql/0177-nth-highest-salary.sql) | Medium | O(n log n) | O(1) | SQL, Function, DISTINCT, LIMIT |
