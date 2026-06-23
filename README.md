@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 53
+- Solved: 54
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -32,6 +32,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 36 | Valid Sudoku | [Python](./Arrays/0036-valid-sudoku.py) | Medium | $O(1)$ | $O(1)$ | Hash Set, Matrix |
 | 74 | Search a 2D Matrix | [Python](./arrays/0074-search-a-2d-matrix.py) | Medium | O(log(m*n)) | O(1) | Binary Search |
 | 1480 | Running Sum of 1d Array | [C++](./array/1480-running-sum-of-1d-array.cpp) | Easy | O(n) | O(1) | Array, Prefix Sum |
+| 1295 | Find Numbers with Even Number of Digits | [C++](./array/1295-find-numbers-with-even-number-of-digits.cpp) | Easy | O(n) | O(1) | Array, Math |
 
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
