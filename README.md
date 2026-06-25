@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 56
+- Solved: 57
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -15,6 +15,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 1672 | Richest Customer Wealth | [C++](./array/1672-richest-customer-wealth.cpp) | Easy | O(m*n) | O(1) | Array, Matrix |
 | 26 | Remove Duplicates from Sorted Array | [Python](./arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
 | 27 | Remove Element | [Python](./arrays/27-remove-element.py) | Easy | O(n) | O(1) | Two Pointers |
+| 80 | Remove Duplicates from Sorted Array II | [C++](./Arrays/80-Remove-Duplicates-from-Sorted-Array-II/solution.cpp) | Medium | $O(n)$ | $O(1)$ | Two Pointers |
 | 88 | Merge Sorted Array | [Python](./arrays/0088-merge-sorted-array.py) | Easy | O(m+n) | O(1) | 3 Pointers |
 | 412 | Fizz Buzz | [C++](./array/0412-fizz-buzz.cpp) | Easy | O(n) | O(1) | Math, String |
 | 283 | Move Zeroes | [Python](./arrays/0283-move-zeroes.py) | Easy | O(n) | O(1) | 2 Pointers |
