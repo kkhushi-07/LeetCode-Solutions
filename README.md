@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 60
+- Solved: 61
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -12,6 +12,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 ## Arrays
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./array/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./704-binary-search.cpp) | Easy | O(log n) | O(1) | Iterative Binary Search with overflow-safe mid |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./array/0344-reverse-string.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place reversal |
 | 1672 | Richest Customer Wealth | [C++](./array/1672-richest-customer-wealth.cpp) | Easy | O(m*n) | O(1) | Array, Matrix |
