@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 62
+- Solved: 63
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -17,6 +17,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./array/0189-rotate-array.cpp) | Medium | O(n) | O(1) | Array, Reversal, Two Pointers |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./array/0283-move-zeroes.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./704-binary-search.cpp) | Easy | O(log n) | O(1) | Iterative Binary Search with overflow-safe mid |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./array/0724-find-pivot-index.cpp) | Easy | O(n) | O(1) | Prefix Sum |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./array/0344-reverse-string.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place reversal |
 | 1672 | Richest Customer Wealth | [C++](./array/1672-richest-customer-wealth.cpp) | Easy | O(m*n) | O(1) | Array, Matrix |
 | 26 | Remove Duplicates from Sorted Array | [Python](./arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
