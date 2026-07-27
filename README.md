@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 68
+- Solved: 69
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -19,6 +19,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./cpp/0304-range-sum-query-2d-immutable.cpp) | Medium | O(1) | O(m*n) | 2D Prefix Sum, Inclusion-Exclusion |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./array/0560-subarray-sum-equals-k.cpp) | Medium | O(n) | O(n) | HashMap, Prefix Sum |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./array/0189-rotate-array.cpp) | Medium | O(n) | O(1) | Array, Reversal, Two Pointers |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](./cpp/1470_shuffle_the_array.cpp) | Easy | O(n) | O(n) | Array, Simulation |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./cpp/0053-maximum-subarray.cpp) | Medium | O(n) | O(1) | Kadane's Algorithm, DP, Greedy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./array/0283-move-zeroes.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./704-binary-search.cpp) | Easy | O(log n) | O(1) | Iterative Binary Search with overflow-safe mid |
