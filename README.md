@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 67
+- Solved: 68
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -14,6 +14,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./array/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./cpp/209_minimum_size_subarray_sum.cpp) | Medium | O(n) | O(1) | Sliding Window, Two Pointers |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [C++](./cpp/1929_concatenation_of_array.cpp) | Easy | O(n) | O(n) | Array, Simulation |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./array/0026-remove-duplicates-from-sorted-array.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./cpp/0304-range-sum-query-2d-immutable.cpp) | Medium | O(1) | O(m*n) | 2D Prefix Sum, Inclusion-Exclusion |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./array/0560-subarray-sum-equals-k.cpp) | Medium | O(n) | O(n) | HashMap, Prefix Sum |
