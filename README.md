@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java
-- Solved: 69
+- Solved: 70
 - Goal: 100+ Problems
 
 ## Problems Solved
