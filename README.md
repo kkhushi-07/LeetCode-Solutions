@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 75
+- Solved: 76
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -21,14 +21,15 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [C++](./Arrays/2149-rearrange-array-elements-by-sign.cpp) | Medium | O(n) | O(n) | Two Pointers, Array Rearrangement |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Arrays/0026-remove-duplicates-from-sorted-array.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./Arrays/0304-range-sum-query-2d-immutable.cpp) | Medium | O(1) | O(m*n) | 2D Prefix Sum, Inclusion-Exclusion |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./0075-sort-colors.cpp) | Medium | O(n) | O(1) | Dutch National Flag, Three Pointers |
-| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./array/0560-subarray-sum-equals-k.cpp) | Medium | O(n) | O(n) | HashMap, Prefix Sum |
-| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./array/0189-rotate-array.cpp) | Medium | O(n) | O(1) | Array, Reversal, Two Pointers |
-| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](./cpp/1470_shuffle_the_array.cpp) | Easy | O(n) | O(n) | Array, Simulation |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./cpp/0053-maximum-subarray.cpp) | Medium | O(n) | O(1) | Kadane's Algorithm, DP, Greedy |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./array/0283-move-zeroes.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./704-binary-search.cpp) | Easy | O(log n) | O(1) | Iterative Binary Search with overflow-safe mid |
-| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./array/0724-find-pivot-index.cpp) | Easy | O(n) | O(1) | Prefix Sum |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./Arrays/0075-sort-colors.cpp) | Medium | O(n) | O(1) | Dutch National Flag, Three Pointers |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./Arrays/0560-subarray-sum-equals-k.cpp) | Medium | O(n) | O(n) | HashMap, Prefix Sum |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./Arrays/0189-rotate-array.cpp) | Medium | O(n) | O(1) | Array, Reversal, Two Pointers |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](./Arrays/1470_shuffle_the_array.cpp) | Easy | O(n) | O(n) | Array, Simulation |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./Arrays/0053-maximum-subarray.cpp) | Medium | O(n) | O(1) | Kadane's Algorithm, DP, Greedy |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./Arrays/0041-first-missing-positive.cpp) | Hard | O(n) | O(1) | Cycle Sort, Index Mapping, In-Place |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./Arrays/0283-move-zeroes.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./Arrays/704-binary-search.cpp) | Easy | O(log n) | O(1) | Iterative Binary Search with overflow-safe mid |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./Arrays/0724-find-pivot-index.cpp) | Easy | O(n) | O(1) | Prefix Sum |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./Arrays/0344-reverse-string.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place reversal |
 | 1672 | Richest Customer Wealth | [C++](./array/1672-richest-customer-wealth.cpp) | Easy | O(m*n) | O(1) | Array, Matrix |
 | 26 | Remove Duplicates from Sorted Array | [Python](./arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
