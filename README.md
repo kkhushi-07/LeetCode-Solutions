@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 74
+- Solved: 75
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -15,6 +15,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Arrays/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Arrays/209_minimum_size_subarray_sum.cpp) | Medium | O(n) | O(1) | Sliding Window, Two Pointers |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./Arrays/0229-majority-element-ii.cpp) | Medium | O(n) | O(1) | Extended Moore's Voting Algorithm |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./Arrays/0905-sort-array-by-parity.cpp) | Easy | O(n) | O(1) | Two Pointers, In-Place |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./Arrays/0169-majority-element.cpp) | Easy | O(n) | O(1) | Moore's Voting Algorithm |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [C++](./Arrays/1929_concatenation_of_array.cpp) | Easy | O(n) | O(n) | Array, Simulation |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [C++](./Arrays/2149-rearrange-array-elements-by-sign.cpp) | Medium | O(n) | O(n) | Two Pointers, Array Rearrangement |
