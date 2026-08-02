@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 72
+- Solved: 73
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -12,12 +12,13 @@ BCA Student | DSA Practice | Daily Problem Solving
 ## Arrays
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./array/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./cpp/209_minimum_size_subarray_sum.cpp) | Medium | O(n) | O(1) | Sliding Window, Two Pointers |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./0169-majority-element.cpp) | Easy | O(n) | O(1) | Moore's Voting Algorithm |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [C++](./cpp/1929_concatenation_of_array.cpp) | Easy | O(n) | O(n) | Array, Simulation |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./array/0026-remove-duplicates-from-sorted-array.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
-| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./cpp/0304-range-sum-query-2d-immutable.cpp) | Medium | O(1) | O(m*n) | 2D Prefix Sum, Inclusion-Exclusion |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Arrays/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Arrays/209_minimum_size_subarray_sum.cpp) | Medium | O(n) | O(1) | Sliding Window, Two Pointers |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./Arrays/0229-majority-element-ii.cpp) | Medium | O(n) | O(1) | Extended Moore's Voting Algorithm |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./Arrays/0169-majority-element.cpp) | Easy | O(n) | O(1) | Moore's Voting Algorithm |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [C++](./Arrays/1929_concatenation_of_array.cpp) | Easy | O(n) | O(n) | Array, Simulation |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Arrays/0026-remove-duplicates-from-sorted-array.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
+| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./Arrays/0304-range-sum-query-2d-immutable.cpp) | Medium | O(1) | O(m*n) | 2D Prefix Sum, Inclusion-Exclusion |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./0075-sort-colors.cpp) | Medium | O(n) | O(1) | Dutch National Flag, Three Pointers |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./array/0560-subarray-sum-equals-k.cpp) | Medium | O(n) | O(n) | HashMap, Prefix Sum |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./array/0189-rotate-array.cpp) | Medium | O(n) | O(1) | Array, Reversal, Two Pointers |
