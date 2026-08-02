@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 71
+- Solved: 72
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -93,6 +93,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 2894 | Divisible and Non-divisible Sums Difference | [C++](./math/2894-divisible-and-non-divisible-sums-difference.cpp) | Easy | O(1) | O(1) | Math |
 | 9 | Palindrome Number | [C++](./math/0009-palindrome-number.cpp) | Easy | O(log n) | O(1) | Math |
 | 12 | Integer to Roman | [C++](./math/0012-integer-to-roman.cpp) | Medium | O(1) | O(1) | Math, Greedy |
+| 877 | Stone Game | [C++](./maths/0877-stone-game.cpp) | Medium | O(1) | O(1) | Game Theory, Math |
 | 13 | Roman to Integer | [C++](./math/0013-roman-to-integer.cpp) | Easy | O(n) | O(1) | Math, Hash Table |
 | 43 | Multiply Strings | [C++](./math/0043-multiply-strings.cpp) | Medium | O(m*n) | O(m+n) | Math, String |
 
