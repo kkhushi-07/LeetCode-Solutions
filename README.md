@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 79
+- Solved: 80
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -15,6 +15,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Arrays/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Arrays/209_minimum_size_subarray_sum.cpp) | Medium | O(n) | O(1) | Sliding Window, Two Pointers |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Arrays/0349-intersection-of-two-arrays.cpp) | Easy | O(n log n + m log m) | O(1) | Two Pointers, Sorting |
+| 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [C++](./Arrays/0986-interval-list-intersections.cpp) | Medium | O(n+m) | O(1) | Two Pointers, Intervals |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./Arrays/00350-intersection-of-two-arrays-ii.cpp) | Easy | $O(N \log N + M \log M)$ | $O(1)$ | Two Pointers, Sorting (With Multiplicity) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./Arrays/0229-majority-element-ii.cpp) | Medium | O(n) | O(1) | Extended Moore's Voting Algorithm |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./Arrays/0905-sort-array-by-parity.cpp) | Easy | O(n) | O(1) | Two Pointers, In-Place |
