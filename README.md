@@ -26,6 +26,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [C++](./Arrays/1929_concatenation_of_array.cpp) | Easy | O(n) | O(n) | Array, Simulation |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [C++](./Arrays/2149-rearrange-array-elements-by-sign.cpp) | Medium | O(n) | O(n) | Two Pointers, Array Rearrangement |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Arrays/0026-remove-duplicates-from-sorted-array.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./Arrays/0034-find-first-and-last-position-of-element-in-sorted-array.cpp) | Medium | O(log n) | O(1) | Binary Search, Lower/Upper Bound |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./Arrays/0304-range-sum-query-2d-immutable.cpp) | Medium | O(1) | O(m*n) | 2D Prefix Sum, Inclusion-Exclusion |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./Arrays/0075-sort-colors.cpp) | Medium | O(n) | O(1) | Dutch National Flag, Three Pointers |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./Arrays/0560-subarray-sum-equals-k.cpp) | Medium | O(n) | O(n) | HashMap, Prefix Sum |
