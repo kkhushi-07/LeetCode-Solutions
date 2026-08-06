@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 86
+- Solved: 87
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -16,6 +16,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./Arrays/0153-find-minimum-in-rotated-sorted-array.cpp) | Medium | O(log n) | O(1) | Binary Search, Rotated Array |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Arrays/209_minimum_size_subarray_sum.cpp) | Medium | O(n) | O(1) | Sliding Window, Two Pointers |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./Arrays/0049-group-anagrams.cpp) | Medium | O(N * K log K) | O(N * K) | Hash Map, Sorting, Canonical Key |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [C++](./Arrays/3345_smallest_divisible_digit_product_i.cpp) | Easy | O(k · log₁₀n) | O(1) | Math, Simulation |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Arrays/0001-two-sum.cpp) | Easy | O(n) | O(n) | Hash Map, Complement Search |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./Arrays/0349-intersection-of-two-arrays.cpp) | Easy | O(n log n + m log m) | O(1) | Two Pointers, Sorting |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [C++](./Arrays/0986-interval-list-intersections.cpp) | Medium | O(n+m) | O(1) | Two Pointers, Intervals |
