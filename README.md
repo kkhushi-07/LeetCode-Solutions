@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 88
+- Solved: 89
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -14,6 +14,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Arrays/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](./Arrays/0875-koko-eating-bananas.cpp) | Medium | O(N log(max P)) | O(1) | Binary Search on Answer |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [C++](./Arrays/1011-capacity-to-ship-packages-within-d-days.cpp) | Medium | O(N log(Sum - Max)) | O(1) | Binary Search on Answer |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./Arrays/0153-find-minimum-in-rotated-sorted-array.cpp) | Medium | O(log n) | O(1) | Binary Search, Rotated Array |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./Arrays/209_minimum_size_subarray_sum.cpp) | Medium | O(n) | O(1) | Sliding Window, Two Pointers |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./Arrays/0049-group-anagrams.cpp) | Medium | O(N * K log K) | O(N * K) | Hash Map, Sorting, Canonical Key |
