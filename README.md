@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 92
+- Solved: 93
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -14,6 +14,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Arrays/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](./Arrays/0875-koko-eating-bananas.cpp) | Medium | O(N log(max P)) | O(1) | Binary Search on Answer |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [C++](./0435-non-overlapping-intervals.cpp) | Medium | O(N log N) | O(1) | Greedy, Activity Selection, Sorting |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](.Arrays//0057-insert-interval.cpp) | Medium | O(N) | O(1) | Linear Scan, Interval Merging |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./Arrays/0056-merge-intervals.cpp) | Medium | O(N log N) | O(1) | Sorting, Overlapping Intervals |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [C++](./Arrays/1283-find-the-smallest-divisor-given-a-threshold.cpp) | Medium | O(N log(max A)) | O(1) | Binary Search on Answer |
