@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 94
+- Solved: 95
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -12,6 +12,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 ## Arrays
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./Arrays/0054-spiral-matrix.cpp) | Medium | O(M*N) | O(1) | Boundary Traversal, Simulation |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Arrays/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](./Arrays/0875-koko-eating-bananas.cpp) | Medium | O(N log(max P)) | O(1) | Binary Search on Answer |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [C++](./0435-non-overlapping-intervals.cpp) | Medium | O(N log N) | O(1) | Greedy, Activity Selection, Sorting |
