@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 95
+- Solved: 96
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -14,6 +14,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./Arrays/0054-spiral-matrix.cpp) | Medium | O(M*N) | O(1) | Boundary Traversal, Simulation |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Arrays/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./Arrays/0073-set-matrix-zeroes.cpp) | Medium | O(M*N) | O(1) | In-Place Matrix Marking |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](./Arrays/0875-koko-eating-bananas.cpp) | Medium | O(N log(max P)) | O(1) | Binary Search on Answer |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [C++](./0435-non-overlapping-intervals.cpp) | Medium | O(N log N) | O(1) | Greedy, Activity Selection, Sorting |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](.Arrays//0057-insert-interval.cpp) | Medium | O(N) | O(1) | Linear Scan, Interval Merging |
