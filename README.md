@@ -82,28 +82,28 @@ BCA Student | DSA Practice | Daily Problem Solving
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
-| 175 | Combine Two Tables | [SQL](./database/175-combine-two-tables.sql) |
-| 176 | Second Highest Salary | [SQL](./database/176-second-highest-salary.sql) |
-| 181 | Employees Earning More Than Their Managers | [SQL](./database/0181-Employees-Earning-More....sql) |
-| 183 | Customers Who Never Order | [SQL](./database/0183-customers-who-never-ord....sql) |
-| 182 | Duplicate Emails | [SQL](./database/0182-duplicate-emails.sql) |
-| 185 | Department Top Three Salaries | [SQL](./database/0185-department-top-three-salaries.sql) |
-| 196 | Delete Duplicate Emails | [SQL](./database/0196-delete-duplicate-emails.sql) |
-| 197 | Rising Temperature | [SQL](./database/0197-rising-temperature.sql) | Easy | O(n log n) | O(1) | JOIN |
-| 595 | Big Countries | [SQL](./database/0595-big-countries.sql) | Easy | O(n) | O(1) | WHERE |
-| 184 | Department Highest Salary | [SQL](./database/0184-department-highest-salary.sql) | Medium | O(n log n) | O(n) | JOIN + Subquery |
-| 584 | Find Customer Referee | [SQL](./database/0584-find-customer-referee.sql) | Easy | O(n) | O(1) | WHERE, NULL |
-| 577 | Employee Bonus | [SQL](./database/0577-employee-bonus.sql) | Easy | O(n log n) | O(1) | LEFT JOIN, NULL |
-| 586 | Customer Placing the Largest Number of Orders | [SQL](./database/0586-customer-placing-the-largest-number-of-orders.sql) | Easy | O(n log n) | O(n) | GROUP BY, ORDER BY, LIMIT |
-| 511 | Game Play Analysis I | [SQL](./sql/0511-game-play-analysis-i.sql) | Easy | O(n) | O(n) | Database |
-| 610 | Triangle Judgement | [SQL](./sql/0610-triangle-judgement.sql) | Easy | O(n) | O(1) | SQL, Case Statement |
-| 607 | Sales Person | [SQL](./sql/0607-sales-person.sql) | Easy | O(n) | O(1) | SQL, Subquery, JOIN, Anti-join |
-| 177 | Nth Highest Salary | [SQL](./sql/0177-nth-highest-salary.sql) | Medium | O(n log n) | O(1) | SQL, Function, DISTINCT, LIMIT |
-| 178 | Rank Scores | [SQL](./sql/0178-rank-scores.sql) | Medium | O(n log n) | O(1) | SQL, Window Function, DENSE_RANK |
-| 180 | Consecutive Numbers | [SQL](./sql/0180-consecutive-numbers.sql) | Medium | O(n) | O(1) | SQL, Self Join, JOIN |
-| 262 | Trips and Users | [SQL](./sql/0262-trips-and-users.sql) | Hard | O(n log n) | O(1) | SQL, JOIN, GROUP BY, Aggregation |
-| 596 | Classes With at Least 5 Students | [SQL](./database/0596-classes-with-at-least-5-students.sql) | Easy | $O(n)$ | $O(k)$ | GROUP BY, HAVING |
-| 602 | Friend Requests II: Who Has the Most Friends | [SQL](./database/0602-friend-requests-ii-who-has-the-most-friends.sql) | Medium | $O(n)$ | $O(n)$ | UNION ALL, Subquery |
+| 175 | Combine Two Tables | [SQL](./Database/175-combine-two-tables.sql) |
+| 176 | Second Highest Salary | [SQL](./Database/176-second-highest-salary.sql) |
+| 181 | Employees Earning More Than Their Managers | [SQL](./Database/0181-Employees-Earning-More....sql) |
+| 183 | Customers Who Never Order | [SQL](./Database/0183-customers-who-never-ord....sql) |
+| 182 | Duplicate Emails | [SQL](./Database/0182-duplicate-emails.sql) |
+| 185 | Department Top Three Salaries | [SQL](./Database/0185-department-top-three-salaries.sql) |
+| 196 | Delete Duplicate Emails | [SQL](./Database/0196-delete-duplicate-emails.sql) |
+| 197 | Rising Temperature | [SQL](./Database/0197-rising-temperature.sql) | Easy | O(n log n) | O(1) | JOIN |
+| 595 | Big Countries | [SQL](./Database/0595-big-countries.sql) | Easy | O(n) | O(1) | WHERE |
+| 184 | Department Highest Salary | [SQL](./Database/0184-department-highest-salary.sql) | Medium | O(n log n) | O(n) | JOIN + Subquery |
+| 584 | Find Customer Referee | [SQL](./Database/0584-find-customer-referee.sql) | Easy | O(n) | O(1) | WHERE, NULL |
+| 577 | Employee Bonus | [SQL](./Database/0577-employee-bonus.sql) | Easy | O(n log n) | O(1) | LEFT JOIN, NULL |
+| 586 | Customer Placing the Largest Number of Orders | [SQL](./Database/0586-customer-placing-the-largest-number-of-orders.sql) | Easy | O(n log n) | O(n) | GROUP BY, ORDER BY, LIMIT |
+| 511 | Game Play Analysis I | [SQL](./Database/0511-game-play-analysis-i.sql) | Easy | O(n) | O(n) | Database |
+| 610 | Triangle Judgement | [SQL](./Database/0610-triangle-judgement.sql) | Easy | O(n) | O(1) | SQL, Case Statement |
+| 607 | Sales Person | [SQL](./Database/0607-sales-person.sql) | Easy | O(n) | O(1) | SQL, Subquery, JOIN, Anti-join |
+| 177 | Nth Highest Salary | [SQL](./Database/0177-nth-highest-salary.sql) | Medium | O(n log n) | O(1) | SQL, Function, DISTINCT, LIMIT |
+| 178 | Rank Scores | [SQL](./Database/0178-rank-scores.sql) | Medium | O(n log n) | O(1) | SQL, Window Function, DENSE_RANK |
+| 180 | Consecutive Numbers | [SQL](./Database/0180-consecutive-numbers.sql) | Medium | O(n) | O(1) | SQL, Self Join, JOIN |
+| 262 | Trips and Users | [SQL](./Database/0262-trips-and-users.sql) | Hard | O(n log n) | O(1) | SQL, JOIN, GROUP BY, Aggregation |
+| 596 | Classes With at Least 5 Students | [SQL](./Database/0596-classes-with-at-least-5-students.sql) | Easy | $O(n)$ | $O(k)$ | GROUP BY, HAVING |
+| 602 | Friend Requests II: Who Has the Most Friends | [SQL](./Database/0602-friend-requests-ii-who-has-the-most-friends.sql) | Medium | $O(n)$ | $O(n)$ | UNION ALL, Subquery |
  
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
