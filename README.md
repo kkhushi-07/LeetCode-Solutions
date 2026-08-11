@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 98
+- Solved: 99
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -13,6 +13,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [C++](./Arrays/2996_smallest_missing_integer_greater_than_sequential_prefix_sum.cpp) | Easy | O(N) | O(N) | Sequential Prefix Sum, Hash Set |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./Arrays/0240-search-a-2d-matrix-ii.cpp) | Medium | O(M+N) | O(1) | Staircase Search, Matrix Traversal |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./Arrays/0074-search-a-2d-matrix.cpp) | Medium | O(log(M*N)) | O(1) | Binary Search, Matrix Flattening |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./Arrays/0054-spiral-matrix.cpp) | Medium | O(M*N) | O(1) | Boundary Traversal, Simulation |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Arrays/0125-valid-palindrome.cpp) | Easy | O(n) | O(1) | Two Pointers, String filtering |
