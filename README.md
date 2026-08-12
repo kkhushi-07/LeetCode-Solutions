@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 101
+- Solved: 102
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -13,6 +13,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [C++](./Arrays/2996_smallest_missing_integer_greater_than_sequential_prefix_sum.cpp) | Easy | O(N) | O(N) | Sequential Prefix Sum, Hash Set |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [C++](./Arrays/1094-car-pooling.cpp) | Medium | O(N) | O(1) | Difference Array, Prefix Sum |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [C++](./Arrays/0733-flood-fill.cpp) | Easy | O(M*N) | O(M*N) | DFS, Grid Traversal |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./Arrays/0240-search-a-2d-matrix-ii.cpp) | Medium | O(M+N) | O(1) | Staircase Search, Matrix Traversal |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./Arrays/0074-search-a-2d-matrix.cpp) | Medium | O(log(M*N)) | O(1) | Binary Search, Matrix Flattening |
