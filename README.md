@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 100
+- Solved: 101
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -23,6 +23,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [C++](./0435-non-overlapping-intervals.cpp) | Medium | O(N log N) | O(1) | Greedy, Activity Selection, Sorting |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](.Arrays//0057-insert-interval.cpp) | Medium | O(N) | O(1) | Linear Scan, Interval Merging |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./Arrays/0056-merge-intervals.cpp) | Medium | O(N log N) | O(1) | Sorting, Overlapping Intervals |
+| 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [C++](./Arrays/1109-corporate-flight-bookings.cpp) | Medium | O(N+B) | O(N) | Difference Array, Prefix Sum |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C++](./Arrays/0048-rotate-image.cpp) | Medium | O(N^2) | O(1) | Matrix Transpose, In-Place Transformation |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [C++](./Arrays/1283-find-the-smallest-divisor-given-a-threshold.cpp) | Medium | O(N log(max A)) | O(1) | Binary Search on Answer |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [C++](./Arrays/1011-capacity-to-ship-packages-within-d-days.cpp) | Medium | O(N log(Sum - Max)) | O(1) | Binary Search on Answer |
