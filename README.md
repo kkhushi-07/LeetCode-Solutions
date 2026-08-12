@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 102
+- Solved: 103
 - Goal: 100+ Problems
 
 ## Problems Solved
@@ -12,6 +12,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 ## Arrays
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [C++](./Arrays/1331-rank-transform-of-an-array.cpp) | Easy | O(N log N) | O(N) | Coordinate Compression, Hashing |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [C++](./Arrays/2996_smallest_missing_integer_greater_than_sequential_prefix_sum.cpp) | Easy | O(N) | O(N) | Sequential Prefix Sum, Hash Set |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [C++](./Arrays/1094-car-pooling.cpp) | Medium | O(N) | O(1) | Difference Array, Prefix Sum |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [C++](./Arrays/0733-flood-fill.cpp) | Easy | O(M*N) | O(M*N) | DFS, Grid Traversal |
