@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 104
+- Solved: 105
 - Goal: 200+ Problems
 
 ## Problems Solved
@@ -14,6 +14,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [C++](./Arrays/1331-rank-transform-of-an-array.cpp) | Easy | O(N log N) | O(N) | Coordinate Compression, Hashing |
 | 2035 | [Partition Array Into Two Arrays](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [C++](./Arrays/2035-partition-array-into-two-arrays-to-minimize-sum-difference.cpp) | Hard | O(2^N * N) | O(2^N) | Meet in the Middle, Binary Search, Bitmask |
+| 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [C++](./Arrays/3090-maximum-length-substring-with-two-occurrences.cpp) | Easy | O(N) | O(1) | Sliding Window, Two Pointers |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [C++](./Arrays/2996_smallest_missing_integer_greater_than_sequential_prefix_sum.cpp) | Easy | O(N) | O(N) | Sequential Prefix Sum, Hash Set |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [C++](./Arrays/1094-car-pooling.cpp) | Medium | O(N) | O(1) | Difference Array, Prefix Sum |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [C++](./Arrays/0733-flood-fill.cpp) | Easy | O(M*N) | O(M*N) | DFS, Grid Traversal |
