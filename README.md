@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 107
+- Solved: 108
 - Goal: 200+ Problems
 
 ## Problems Solved
@@ -13,6 +13,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [C++](./Arrays/1331-rank-transform-of-an-array.cpp) | Easy | O(N log N) | O(N) | Coordinate Compression, Hashing |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./Arrays/0122-best-time-to-buy-and-sell-stock-ii.cpp) | Medium | O(N) | O(1) | Greedy, Peak-Valley Algorithm |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./Arrays/0042-trapping-rain-water.cpp) | Hard | O(N) | O(1) | Two Pointers, Dynamic Programming, Greedy |
 | 2035 | [Partition Array Into Two Arrays](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [C++](./Arrays/2035-partition-array-into-two-arrays-to-minimize-sum-difference.cpp) | Hard | O(2^N * N) | O(2^N) | Meet in the Middle, Binary Search, Bitmask |
 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [C++](./Arrays/3090-maximum-length-substring-with-two-occurrences.cpp) | Easy | O(N) | O(1) | Sliding Window, Two Pointers |
