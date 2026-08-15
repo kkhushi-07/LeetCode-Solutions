@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 105
+- Solved: 106
 - Goal: 200+ Problems
 
 ## Problems Solved
@@ -137,3 +137,4 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 136 | Single Number | [C++](./bit-manipulation/0136-single-number.cpp) | Easy | O(n) | O(1) | Bit Manipulation |
 | 191 | Number of 1 Bits | [C++](./bit-manipulation/0191-number-of-1-bits.cpp) | Easy | O(1) | O(1) | Bit Manipulation |
+| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [C++](./Bit_Manipulation/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp) | Medium | O(N) | O(1) | Bitwise XOR Logic |
