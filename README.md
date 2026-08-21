@@ -63,8 +63,8 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./Arrays/704-binary-search.cpp) | Easy | O(log n) | O(1) | Iterative Binary Search with overflow-safe mid |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./Arrays/0724-find-pivot-index.cpp) | Easy | O(n) | O(1) | Prefix Sum |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./Arrays/0344-reverse-string.cpp) | Easy | O(n) | O(1) | Two Pointers, In-place reversal |
-| 1672 | Richest Customer Wealth | [C++](./array/1672-richest-customer-wealth.cpp) | Easy | O(m*n) | O(1) | Array, Matrix |
-| 26 | Remove Duplicates from Sorted Array | [Python](./arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
+| 1672 | Richest Customer Wealth | [C++](./Array/1672-richest-customer-wealth.cpp) | Easy | O(m*n) | O(1) | Array, Matrix |
+| 26 | Remove Duplicates from Sorted Array | [Python](./Arrays/26-remove-duplicates-from-sorted-array.py) | Easy | O(n) | O(1) | Two Pointers |
 | 27 | Remove Element | [Python](./arrays/27-remove-element.py) | Easy | O(n) | O(1) | Two Pointers |
 | 80 | Remove Duplicates from Sorted Array II | [C++](./Arrays/80-Remove-Duplicates-from-Sorted-Array-II/solution.cpp) | Medium | $O(n)$ | $O(1)$ | Two Pointers |
 | 167 | Two Sum II - Input Array Is Sorted | [C++](./Arrays/167-Two-Sum-II-Input-Array-Is-Sorted/solution.cpp) | Medium | $O(n)$ | $O(1)$ | Two Pointers |
