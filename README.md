@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 109
+- Solved: 110
 - Goal: 200+ Problems
 
 ## Problems Solved
@@ -89,6 +89,11 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 74 | Search a 2D Matrix | [Python](./arrays/0074-search-a-2d-matrix.py) | Medium | O(log(m*n)) | O(1) | Binary Search |
 | 1480 | Running Sum of 1d Array | [C++](./array/1480-running-sum-of-1d-array.cpp) | Easy | O(n) | O(1) | Array, Prefix Sum |
 | 1295 | Find Numbers with Even Number of Digits | [C++](./array/1295-find-numbers-with-even-number-of-digits.cpp) | Easy | O(n) | O(1) | Array, Math |
+
+## string
+| # | Title | Solution | Difficulty | Time | Space | Approach |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./string/0014-longest-common-prefix.cpp) | Easy | O(S) | O(1) | String Traversal, Horizontal Scanning, Trimming |
 
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
