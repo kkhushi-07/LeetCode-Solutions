@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 111
+- Solved: 112
 - Goal: 200+ Problems
 
 ## Problems Solved
@@ -95,6 +95,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | --- | --- | --- | --- | --- | --- | --- |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./string/0014-longest-common-prefix.cpp) | Easy | O(S) | O(1) | String Traversal, Horizontal Scanning, Trimming |
 | 0028 | [Find the Index of First Occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp) | Easy | O(N*M) | O(1) | String Matching, Substring Search |
+| 0443 | [String Compression](https://leetcode.com/problems/string-compression/) | [C++](./string/0443-string-compression.cpp) | Medium | O(N) | O(1) | String Modification, Two Pointers, In-Place Encoding |
 
 ## Database
 | # | Title | Solution | Difficulty | Time | Space | Approach |
