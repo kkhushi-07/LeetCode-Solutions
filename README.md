@@ -3,7 +3,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 
 ### Stats
 - Language: Python, Java , C++
-- Solved: 112
+- Solved: 113
 - Goal: 200+ Problems
 
 ## Problems Solved
@@ -13,6 +13,7 @@ BCA Student | DSA Practice | Daily Problem Solving
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./Arrays/0238-product-of-array-except-self.cpp) | Medium | O(N) | O(1) | Prefix/Suffix Product, Cumulative Processing |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [C++](./3718-smallest-missing-multiple-of-k.cpp) | Easy | O(N) | O(N) | Hash Set |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [C++](./Arrays/1331-rank-transform-of-an-array.cpp) | Easy | O(N log N) | O(N) | Coordinate Compression, Hashing |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./Arrays/0122-best-time-to-buy-and-sell-stock-ii.cpp) | Medium | O(N) | O(1) | Greedy, Peak-Valley Algorithm |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./Arrays/0042-trapping-rain-water.cpp) | Hard | O(N) | O(1) | Two Pointers, Dynamic Programming, Greedy |
