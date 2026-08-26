@@ -1,9 +1,12 @@
 -- LeetCode 180: Consecutive Numbers
--- Find all numbers that appear at least three times consecutively
--- Key: Self join table 3 times on id+1, id+2 and check num equality
 
-SELECT DISTINCT l1.num AS ConsecutiveNums
-FROM Logs l1
-JOIN Logs l2 ON l2.id = l1.id + 1
-JOIN Logs l3 ON l3.id = l1.id + 2
-WHERE l1.num = l2.num AND l2.num = l3.num;
+WITH CTE AS (
+    SELECT 
+        num,
+        LEAD(num, 1) OVER (ORDER BY id) AS next_1,
+        LEAD(num, 2) OVER (ORDER BY id) AS next_2
+    FROM Logs
+)
+SELECT DISTINCT num AS ConsecutiveNums
+FROM CTE
+WHERE num = next_1 AND next_1 = next_2;
