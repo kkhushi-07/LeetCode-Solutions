@@ -72,17 +72,17 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 88 | Merge Sorted Array | [Python](./arrays/0088-merge-sorted-array.py) | Easy | O(m+n) | O(1) | 3 Pointers |
 | 412 | Fizz Buzz | [C++](./array/0412-fizz-buzz.cpp) | Easy | O(n) | O(1) | Math, String |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./Arrays/0128-longest-consecutive-sequence.cpp) | Medium | O(n) | O(n) | Hash Set, Sequence Building |
-| 283 | Move Zeroes | [Python](./arrays/0283-move-zeroes.py) | Easy | O(n) | O(1) | 2 Pointers |
-| 121 | Best Time to Buy and Sell Stock | [C++](./array/0121-best-time-to-buy-and-sell-stock.cpp) | Easy | O(n) | O(1) | Array, Greedy |
-| 35 | Search Insert Position | [Python](./arrays/0035-search-insert-position.py) | Easy | O(log n) | O(1) | Binary Search |
-| 73 | Set Matrix Zeroes | [Python](./arrays/0073-set-matrix-zeroes.py) | Medium | O(m*n) | O(1) | In-place Marking |
-| 1281 | Subtract Product and Sum of Digits | [C++](./math/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp) | Easy | O(log n) | O(1) | Digit Extraction |
-| 15 | 3Sum | [Python](./arrays/0015-3sum.py) | Medium | O(n^2) | O(1) | Two Pointers |
-| 66 | Plus One | [Python](./python/0066-plus-one.py) | Easy | O(n) | O(1) | Array, Carry |
-| 118 | Pascal's Triangle | [Python](./python/0118-pascals-triangle.py) | Easy | O(n^2) | O(n^2) | Array, DP | 
-| 11 | Container With Most Water | [Python](./python/0011-container-with-most-water.py) | Medium | O(n) | O(1) | Array, Two Pointers |
-| 14 | Longest Common Prefix | [Python](./python/0014-longest-common-prefix.py) | Easy | O(S) | O(1) | String, Array |
-| 33 | Search in Rotated Sorted Array | [Python](./python/0033-search-in-rotated-sorted-array.py) | Medium | O(log n) | O(1) | Array, Binary Search |
+| 283 | Move Zeroes | [Python](./Arrays/0283-move-zeroes.py) | Easy | O(n) | O(1) | 2 Pointers |
+| 121 | Best Time to Buy and Sell Stock | [C++](./Array/0121-best-time-to-buy-and-sell-stock.cpp) | Easy | O(n) | O(1) | Array, Greedy |
+| 35 | Search Insert Position | [Python](./Arrays/0035-search-insert-position.py) | Easy | O(log n) | O(1) | Binary Search |
+| 73 | Set Matrix Zeroes | [Python](./Arrays/0073-set-matrix-zeroes.py) | Medium | O(m*n) | O(1) | In-place Marking |
+| 1281 | Subtract Product and Sum of Digits | [C++](./Arrays/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp) | Easy | O(log n) | O(1) | Digit Extraction |
+| 15 | 3Sum | [Python](./Arrays/0015-3sum.py) | Medium | O(n^2) | O(1) | Two Pointers |
+| 66 | Plus One | [Python](./Arrays/0066-plus-one.py) | Easy | O(n) | O(1) | Array, Carry |
+| 118 | Pascal's Triangle | [Python](./Arrays/0118-pascals-triangle.py) | Easy | O(n^2) | O(n^2) | Array, DP | 
+| 11 | Container With Most Water | [Python](./Arrays/0011-container-with-most-water.py) | Medium | O(n) | O(1) | Array, Two Pointers |
+| 14 | Longest Common Prefix | [Python](./Arrays/0014-longest-common-prefix.py) | Easy | O(S) | O(1) | String, Array |
+| 33 | Search in Rotated Sorted Array | [Python](./Arrays/0033-search-in-rotated-sorted-array.py) | Medium | O(log n) | O(1) | Array, Binary Search |
 | 18 | 4Sum | [Python](./Arrays/0018-4sum.py) | Medium | $O(n^3)$ | $O(1)$ | Two Pointers, Sorting |
 | 15 | 3Sum | [Python](./Arrays/0015-3sum.py) | Medium | $O(n^2)$ | $O(1)$ | Two Pointers |
 | 34 | Find First and Last Position of Element in Sorted Array | [Python](./Arrays/0034-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | $O(\log n)$ | $O(1)$ | Binary Search |
