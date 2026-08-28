@@ -127,10 +127,10 @@ BCA Student | DSA Practice | Daily Problem Solving
 ## JavaScript
 | # | Title | Solution | Difficulty | Time | Space | Approach |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2667 | Create Hello World Function | [JS](./javascript/2667-create-hello-world-function.js) | Easy | O(1) | O(1) | Closure |
-| 2620 | Counter | [JS](./javascript/2620-counter.js) | Easy | O(1) | O(1) | Closure |
-| 2704 | To Be Or Not To Be | [JS](./javascript/2704-to-be-or-not-to-be.js) | Easy | O(1) | O(1) | Closures |
-| 2665 | Counter II | [JS](./javascript/2665-counter-ii.js) | Easy | O(1) | O(1) | Closures |
+| 2667 | Create Hello World Function | [JS](./JavaScript/2667-create-hello-world-function.js) | Easy | O(1) | O(1) | Closure |
+| 2620 | Counter | [JS](./JavaScript/2620-counter.js) | Easy | O(1) | O(1) | Closure |
+| 2704 | To Be Or Not To Be | [JS](./JavaScript/2704-to-be-or-not-to-be.js) | Easy | O(1) | O(1) | Closures |
+| 2665 | Counter II | [JS](./JavaScript/2665-counter-ii.js) | Easy | O(1) | O(1) | Closures |
 
 ## Maths
 | # | Title | Solution | Difficulty | Time | Space | Approach |
