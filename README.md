@@ -69,8 +69,8 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 27 | Remove Element | [Python](./arrays/27-remove-element.py) | Easy | O(n) | O(1) | Two Pointers |
 | 80 | Remove Duplicates from Sorted Array II | [C++](./Arrays/80-Remove-Duplicates-from-Sorted-Array-II/solution.cpp) | Medium | $O(n)$ | $O(1)$ | Two Pointers |
 | 167 | Two Sum II - Input Array Is Sorted | [C++](./Arrays/167-Two-Sum-II-Input-Array-Is-Sorted/solution.cpp) | Medium | $O(n)$ | $O(1)$ | Two Pointers |
-| 88 | Merge Sorted Array | [Python](./arrays/0088-merge-sorted-array.py) | Easy | O(m+n) | O(1) | 3 Pointers |
-| 412 | Fizz Buzz | [C++](./array/0412-fizz-buzz.cpp) | Easy | O(n) | O(1) | Math, String |
+| 88 | Merge Sorted Array | [Python](./Arrays/0088-merge-sorted-array.py) | Easy | O(m+n) | O(1) | 3 Pointers |
+| 412 | Fizz Buzz | [C++](./Arrays/0412-fizz-buzz.cpp) | Easy | O(n) | O(1) | Math, String |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./Arrays/0128-longest-consecutive-sequence.cpp) | Medium | O(n) | O(n) | Hash Set, Sequence Building |
 | 283 | Move Zeroes | [Python](./Arrays/0283-move-zeroes.py) | Easy | O(n) | O(1) | 2 Pointers |
 | 121 | Best Time to Buy and Sell Stock | [C++](./Array/0121-best-time-to-buy-and-sell-stock.cpp) | Easy | O(n) | O(1) | Array, Greedy |
@@ -87,9 +87,9 @@ BCA Student | DSA Practice | Daily Problem Solving
 | 15 | 3Sum | [Python](./Arrays/0015-3sum.py) | Medium | $O(n^2)$ | $O(1)$ | Two Pointers |
 | 34 | Find First and Last Position of Element in Sorted Array | [Python](./Arrays/0034-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | $O(\log n)$ | $O(1)$ | Binary Search |
 | 36 | Valid Sudoku | [Python](./Arrays/0036-valid-sudoku.py) | Medium | $O(1)$ | $O(1)$ | Hash Set, Matrix |
-| 74 | Search a 2D Matrix | [Python](./arrays/0074-search-a-2d-matrix.py) | Medium | O(log(m*n)) | O(1) | Binary Search |
-| 1480 | Running Sum of 1d Array | [C++](./array/1480-running-sum-of-1d-array.cpp) | Easy | O(n) | O(1) | Array, Prefix Sum |
-| 1295 | Find Numbers with Even Number of Digits | [C++](./array/1295-find-numbers-with-even-number-of-digits.cpp) | Easy | O(n) | O(1) | Array, Math |
+| 74 | Search a 2D Matrix | [Python](./Arrays/0074-search-a-2d-matrix.py) | Medium | O(log(m*n)) | O(1) | Binary Search |
+| 1480 | Running Sum of 1d Array | [C++](./Arrays/1480-running-sum-of-1d-array.cpp) | Easy | O(n) | O(1) | Array, Prefix Sum |
+| 1295 | Find Numbers with Even Number of Digits | [C++](./Arrays/1295-find-numbers-with-even-number-of-digits.cpp) | Easy | O(n) | O(1) | Array, Math |
 
 ## string
 | # | Title | Solution | Difficulty | Time | Space | Approach |
